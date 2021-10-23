@@ -39,4 +39,4 @@ If you want you can also install the program on your machine with:
 $ stack install
 ```
 
-The should then be available in your `PATH`.
+It should then be available in your `PATH`.
